@@ -21,8 +21,5 @@ Inoltre l'applicazione permette di generare :
 
 
 
-
-prova foto
 ### Class Diagram
-[### Class Diagram](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/NewModel%20Use%20Case%20Diagram.jpg)
-
+![Diagramma Classi](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/NewModel%20Use%20Case%20Diagram.jpg)
