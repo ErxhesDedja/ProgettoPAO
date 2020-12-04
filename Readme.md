@@ -25,9 +25,8 @@ L'applicazione è quindi una REST API che ci permette di acquisire dei dati a pa
 Le richieste GET o POST saranno effettuate con POSTMAN che fornirà i risultati nel formato JSON.
 
 Inoltre l'applicazione permette di generare : 
-* statistiche sulla quantità di link per cartella e per tipo di file
+* statistiche sulla quantità di link per cartella e per tipo di file.
 * Statistiche sulle tipologie di sharing dei vari file e cartelle
-
 
 ### DIAGRAMMI UML
 
