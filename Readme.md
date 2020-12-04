@@ -35,4 +35,4 @@ UML (Unified Modeling Language) è un linguaggio di modellazione e di specifica 
 
 
 ### Class Diagram
-![Diagramma Classi](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/%20Use%20Case%20Diagram.jpg)
+![Diagramma Classi](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/%20UseCaseDiagram.jpg)
