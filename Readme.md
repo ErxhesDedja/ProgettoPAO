@@ -29,10 +29,19 @@ Inoltre l'applicazione permette di generare :
 * Statistiche sulle tipologie di sharing dei vari file e cartelle
 
 
+### REFERENCE API DROPBOX
+
+* */sharing/list_shared_links* --> List shared links of this user.
+
+* */sharing/modify_shared_link_settings* --> Modify the shared link's settings.
+
+* */sharing/revoke_shared_link* --> Revoke a shared link.
+ 
+
 ### DIAGRAMMI UML
 
 UML (Unified Modeling Language) è un linguaggio di modellazione e di specifica basato sul paradigma orientato agli oggetti, che permette di analizzare, descrivere, specificare e documentare un sistema software.
 
 
 ### Class Diagram
-![Diagramma Classi](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/%20UseCaseDiagram.jpg)
+![Diagramma Classi](https://github.com/ErxhesDedja/ProgettoPAO/blob/main/%20Use%20Case%20Diagram.jpg)
